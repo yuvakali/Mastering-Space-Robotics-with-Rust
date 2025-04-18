@@ -85,8 +85,17 @@ Each folder includes:
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 
 # Clone the repo
-git clone https://github.com/yuvakali/Mastering Space Robotics with Rust.git
-cd rust-space-robotics-roadmap
+git clone https://github.com/yuvakali/Mastering-Space-Robotics-with-Rust.git
+cd Mastering-Space-Robotics-with-Rust
+
+#Check Dependencies
+cargo check
+
+#Build
+cargo build
+
+#Execute
+cargo run
 
 🤝 Contribute
 Spotted a bug or want to improve a project? PRs and feedback are welcome!
