@@ -60,16 +60,6 @@ This learning plan spans **5 weeks**, structured around daily tasks and progress
 - Space tech enthusiasts and educators
 
 ---
-
-## 📁 Repository Structure 
-/ └── Space-Robotics-with-Rust/
-          / ├── week1_core_rust
-          / ├── week2_embedded_rust
-          / ├── week3_control_systems
-          / ├── week4_ros2_integration
-          / ├── week5_networking
-          / └── week6_capstone/
-
 Each folder includes:
 - 📄 `README.md` with daily goals
 - 🧪 Rust source code files
