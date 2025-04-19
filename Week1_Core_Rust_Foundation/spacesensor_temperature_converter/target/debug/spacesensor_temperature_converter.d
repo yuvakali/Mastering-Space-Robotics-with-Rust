@@ -1,0 +1,1 @@
+/workspaces/Mastering-Space-Robotics-with-Rust/Week1_Core_Rust_Foundation/spacesensor_temperature_converter/target/debug/spacesensor_temperature_converter: /workspaces/Mastering-Space-Robotics-with-Rust/Week1_Core_Rust_Foundation/spacesensor_temperature_converter/src/main.rs
