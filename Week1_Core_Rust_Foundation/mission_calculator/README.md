@@ -22,7 +22,7 @@ This project is part of the **Mastering Space Robotics with Rust** course and is
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/Mastering-Space-Robotics-with-Rust.git
+    git clone https://github.com/yuvakali/Mastering-Space-Robotics-with-Rust.git
     ```
 2. Navigate to the project directory:
     ```bash
