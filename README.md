@@ -23,6 +23,7 @@ This learning plan spans **5 weeks**, structured around daily tasks and progress
 
 ### **Week 1: Core Rust Foundation**
 - CLI tools for mission control
+- Mission Calculator
 - Geometry library for satellite systems
 - Weather station with API & logging
 
