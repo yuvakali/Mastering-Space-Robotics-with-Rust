@@ -1,0 +1,1 @@
+/workspaces/Mastering-Space-Robotics-with-Rust/Week1_Core_Rust_Foundation/mission_calculator/target/debug/mission_calculator: /workspaces/Mastering-Space-Robotics-with-Rust/Week1_Core_Rust_Foundation/mission_calculator/src/main.rs
