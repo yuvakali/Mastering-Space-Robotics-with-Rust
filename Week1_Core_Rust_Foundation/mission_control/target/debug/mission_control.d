@@ -1,0 +1,1 @@
+/workspaces/Mastering-Space-Robotics-with-Rust/Week1_Core_Rust_Foundation/mission_control/target/debug/mission_control: /workspaces/Mastering-Space-Robotics-with-Rust/Week1_Core_Rust_Foundation/mission_control/src/main.rs
